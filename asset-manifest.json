@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.5f9bbc86.css",
-    "main.js": "/react-deploy/static/js/main.97c69d54.js",
+    "main.css": "/react-deploy/static/css/main.adf6e446.css",
+    "main.js": "/react-deploy/static/js/main.dbd7b8ff.js",
     "static/media/port5.png": "/react-deploy/static/media/port5.5440d86b912395aa085b.png",
     "static/media/port6.png": "/react-deploy/static/media/port6.f68a70756cefc5785e57.png",
     "static/media/port1.png": "/react-deploy/static/media/port1.0038f442481375028498.png",
@@ -10,14 +10,13 @@
     "static/media/port2.png": "/react-deploy/static/media/port2.ce316ab9b27d2e1f5745.png",
     "static/media/me.jpg": "/react-deploy/static/media/me.dad7da99d169df2ff2d9.jpg",
     "static/media/port3.png": "/react-deploy/static/media/port3.f62872c59e6864ceed1c.png",
-    "static/media/me1.jpg": "/react-deploy/static/media/me1.c3aa2620ed2efe056d5f.jpg",
     "static/media/1.avif": "/react-deploy/static/media/1.980c5498def2853d2996.avif",
     "index.html": "/react-deploy/index.html",
-    "main.5f9bbc86.css.map": "/react-deploy/static/css/main.5f9bbc86.css.map",
-    "main.97c69d54.js.map": "/react-deploy/static/js/main.97c69d54.js.map"
+    "main.adf6e446.css.map": "/react-deploy/static/css/main.adf6e446.css.map",
+    "main.dbd7b8ff.js.map": "/react-deploy/static/js/main.dbd7b8ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f9bbc86.css",
-    "static/js/main.97c69d54.js"
+    "static/css/main.adf6e446.css",
+    "static/js/main.dbd7b8ff.js"
   ]
 }
